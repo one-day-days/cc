@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cc_jar</output-path>
+    <root id="archive" name="cc.jar">
+      <element id="module-output" name="cc" />
+    </root>
+  </artifact>
+</component>
